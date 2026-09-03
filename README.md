@@ -1,6 +1,6 @@
 # hamshahri-ir
 Persian information retrieval on the Hamshahri corpus with TF-IDF and BM25.
-cat > README.md << 'ENDFILE'
+
 # Persian Information Retrieval on Hamshahri
 
 A search system for the Hamshahri news corpus using inverted indexing, TF-IDF, and BM25.
